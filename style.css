@@ -32,7 +32,6 @@ html, body {
     background-image: url(frame.jpg);
     background-size: cover;
     background-position: center;
-    background-color: red;
     border-radius: 10px;
     transform-style: preserve-3d;
     position: relative;
